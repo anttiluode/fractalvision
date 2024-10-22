@@ -1,5 +1,7 @@
 # Fractal Vision - README
 
+(written by chatgpt, ignore the hype. I dunno what the heck is going on in the image fractal brain)
+
 ![Fractal Vision Screenshot](images/screenshot.jpg)
 
 ### **Disclaimer**:  
