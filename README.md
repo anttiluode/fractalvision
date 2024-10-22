@@ -1,5 +1,10 @@
 # Fractal Vision - README
 
+Video about the Fractalbrain / Vision project. 
+
+[Fractalbrain / Fractalvision project](https://www.youtube.com/watch?v=WiWGliWN5UI)
+
+
 (written by chatgpt, ignore the hype. I dunno what the heck is going on in the image fractal brain)
 
 ![Fractal Vision Screenshot](images/screenshot.jpg)
