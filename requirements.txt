@@ -1,0 +1,9 @@
+torch
+gradio
+openai==1.41
+transformers
+numpy           
+scipy           
+protobuf        
+requests        
+jsonschema   
