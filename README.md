@@ -8,7 +8,11 @@
 This project is an experimental work-in-progress and **sort of works** with image processing. Expect some odd behaviors and limitations. It **only** works with certain image formats like `.jpg` and the **webcam screenshot taker currently does not work**.
 
 ## Introduction  
-**Fractal Vision** is an extension of the **Fractal Brain** project. While Fractal Brain is designed to process text and language with an advanced neuron architecture inspired by biological systems, Fractal Vision applies these ideas to **visual inputs**, processing and transforming images using a recursive neural architecture (fractal neurons). This system explores how a "fractal brain" might interpret and manipulate visual data, acting as an experimental AI capable of handling image-based inputs.
+**Fractal Vision** is an extension of the **Fractal Brain** project:
+
+[FractalBrain Repository](https://github.com/anttiluode/FractalBrain)
+
+While Fractal Brain is designed to process text and language with an advanced neuron architecture inspired by biological systems, Fractal Vision applies these ideas to **visual inputs**, processing and transforming images using a recursive neural architecture (fractal neurons). This system explores how a "fractal brain" might interpret and manipulate visual data, acting as an experimental AI capable of handling image-based inputs.
 
 The purpose is to tie visual input processing with the conceptual work of the Fractal Brain, showing how they might function together. However, the current implementation is experimental and incomplete. The idea was to integrate visual image processing with neural models capable of recursive learning and dynamic structural changes. But please keep in mind that this project might not be fully functional in the way intended.
 
