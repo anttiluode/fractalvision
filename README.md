@@ -75,7 +75,7 @@ Fractal Vision is based on a recursive, fractal neuron architecture originally d
 ## Usage  
 1. **Run the main script** to start the Gradio interface:  
     ```bash
-    python fractal_vision.py
+    python  app.py
     ```
 
 2. **Gradio Interface**:  
