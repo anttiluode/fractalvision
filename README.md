@@ -1,5 +1,7 @@
 # Fractal Vision - README
 
+![Fractal Vision Screenshot](images/screenshot.jpg)
+
 ### **Disclaimer**:  
 This project is an experimental work-in-progress and **sort of works** with image processing. Expect some odd behaviors and limitations. It **only** works with certain image formats like `.jpg` and the **webcam screenshot taker currently does not work**.
 
